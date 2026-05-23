@@ -29,4 +29,4 @@ El sistema se en su mayoría se basa de presionar teclas para poder tener las di
 
 Tras el desarrollo siento que con las herramientas adecuadas en un futuro podría estar realizando una versión mejorada del “juego”. Pero con las herramientas que tenía pude llevar a cabo el proyecto de igual forma. Además de tener la oportunidad de entender y aplicar de manera correcta la función map() para así poder vincular el movimiento del mouse con los colores y tamaños, además de poder estructurar las condicionales “if” para los controles del teclado, ese fue el mayor desafío técnico, a la vez que aportó la interactividad al proyecto. Finalmente me siento bastante satisfecha con el trabajo realizado, dado que, cumple con las expectativas y con el funcionamiento que esperaba lograr. 
 
-<img width="1024" height="768" alt="flujo de diagramacion" src="https://github.com/user-attachments/assets/f5914455-5c10-408e-98d3-41ab8571eef2" />
+[flujo de diagramacion.pdf](https://github.com/user-attachments/files/28167984/flujo.de.diagramacion.pdf)

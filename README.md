@@ -3,6 +3,9 @@
 ##Sistema Interactivo 
 [link]https://editor.p5js.org/nayomi.miranda/sketches/R83X0JRcf
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8b5a0291-a78a-4bbf-a716-0aad8d2d41fc" />
+
+
 ##Proceso
 
 para este trabajo quise guiarme bajo la estructura de videojuego del **Tamagotchi**, un juego creado para la empresa Bandai de Japón, simulando la forma de un huevo pequeño con la función de ser un llavero llamativo que contenía con una mascota virtual. Como tal los tamagochis tienen un gran impacto en la sociedad por el apego y vínculo que puede generar el usuario con su mascota.
@@ -26,4 +29,4 @@ El sistema se en su mayoría se basa de presionar teclas para poder tener las di
 
 Tras el desarrollo siento que con las herramientas adecuadas en un futuro podría estar realizando una versión mejorada del “juego”. Pero con las herramientas que tenía pude llevar a cabo el proyecto de igual forma. Además de tener la oportunidad de entender y aplicar de manera correcta la función map() para así poder vincular el movimiento del mouse con los colores y tamaños, además de poder estructurar las condicionales “if” para los controles del teclado, ese fue el mayor desafío técnico, a la vez que aportó la interactividad al proyecto. Finalmente me siento bastante satisfecha con el trabajo realizado, dado que, cumple con las expectativas y con el funcionamiento que esperaba lograr. 
 
-![imagen]https://ibb.co/s9CH8Prk 
+<img width="1024" height="768" alt="flujo de diagramacion" src="https://github.com/user-attachments/assets/f5914455-5c10-408e-98d3-41ab8571eef2" />

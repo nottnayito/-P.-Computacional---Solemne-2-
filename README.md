@@ -11,10 +11,15 @@ En cuanto a realizar el trabajo en el desarrollo, tuve ciertas dificultades en c
 ##Funcionamiento del sistema.
 
 El sistema se en su mayoría se basa de presionar teclas para poder tener las distintas interacciones. 
+
 -Para la seleccion de mascotas se deben presionar los números 1 (hamster), 2 (perro), 3 (gato).
+
 -Para la seleccion de comidas se debe presionar las letras “a” (torta) y “s” (hamburguesa). 
+
 -Para la seleccion del globo de dialogo y las emociones se deben presionar las letras “c” (cariño), “C” (paseo/juego), “d” (sueño), “D”(enojo).
+
 -Al mover el mouse en el eje X se expone un circuló el cual parpadea debido al color random que se le aplicó con la un distancia de variación de (180/200) que crece al mover el mouse hacia la derecha.
+
 -Al posicionarse en el eje Y se genera un cambio en el color cuando el mouse se mueve hacia arriba el color oscurece y cuando el mouse baja el color se aclara.
 
 **Estableciendo estas instrucciones para llevar a cabo una experiencia tratando de hacerlo similar a un “tamagotchi”.**

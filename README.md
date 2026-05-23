@@ -1,5 +1,8 @@
 # -P.Computacional_Solemne2
 
+Tamagotchi emoji:3
+Nayomi Miranda 
+
 ##Sistema Interactivo 
 [link]https://editor.p5js.org/nayomi.miranda/sketches/R83X0JRcf
 
@@ -9,6 +12,12 @@
 ##Proceso
 
 para este trabajo quise guiarme bajo la estructura de videojuego del **Tamagotchi**, un juego creado para la empresa Bandai de Japón, simulando la forma de un huevo pequeño con la función de ser un llavero llamativo que contenía con una mascota virtual. Como tal los tamagochis tienen un gran impacto en la sociedad por el apego y vínculo que puede generar el usuario con su mascota.
+
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/1810ec88-2af9-41c0-a44b-0fa83230b9ad" />
+<img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/6f11d963-96ff-467d-9949-e6708354c7ee" />
+
+
+
 En cuanto a realizar el trabajo en el desarrollo, tuve ciertas dificultades en cuanto al uso del código pero lentamente fui tratando de solucionar las cosas y pude lograr mejor lo que quería hacer. El sistema trata de una simulación simple del juego con la posibilidad de elegir una mascota, ver los alimentos, y darle emociones.
 
 ##Funcionamiento del sistema.
